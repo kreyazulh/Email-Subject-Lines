@@ -1,5 +1,5 @@
-## Run on Kaggle (Recommended)
-The notebook was designed to run on Kaggle with a P100 GPU (takes ~17 minutes).
+## Run on Kaggle (Easiest Way)
+The notebook can be easily run on Kaggle with a P100 GPU (takes ~17 minutes).
 
 1. Upload the notebook to Kaggle
 2. Add "The Enron Email Dataset" as an input source
